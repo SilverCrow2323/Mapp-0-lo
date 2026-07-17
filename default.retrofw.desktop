@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=MAPP-0-LO
+Comment=Conosci te stesso per conoscere il tuo nemico.
+Exec=launcher.sh
+Icon=icon
+Categories=applications
+Terminal=false
